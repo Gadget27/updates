@@ -4,9 +4,10 @@
 
 
 
-HERE YOU WILL BE NOTIFIED OF ANY UPDATES
+                                        HERE YOU WILL BE NOTIFIED OF ANY UPDATES
 TO CHECK WHICH BUILD VERSION YOU HAVE GOTO (SET UP)(SUBMENU-BUILD VERSION ?.?.?)
 IF THE BUILD VERSION BELOW IS DIFFERENT FROM THE ONE ON YOUR BOX THEN UPDATE THE 
 BUILD AS SHOWN.
                                     
-                                                     THE CURRENT VERSION IS 1.0.0
+                                                     THE CURRENT VERSION IS 2.0.0
+                                                     UPDATE NOW !!!
