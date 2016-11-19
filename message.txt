@@ -10,3 +10,5 @@ BUILD AS SHOWN.
                                     
                                                      THE CURRENT VERSION IS 1.0.0
                                                      
+Find more info at http://www.kodigadget.co.uk
+THANK YOU.
