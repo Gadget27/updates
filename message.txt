@@ -8,6 +8,6 @@ INSTRUCTIONS ON THE SET UP TAB-SUB MENU   ([B][COLOR red]BUILD VERSION[/COLOR][/
 IF THE BUILD VERSION BELOW IS DIFFERENT FROM THE ONE ON YOUR BOX THEN UPDATE THE 
 BUILD AS SHOWN.          [B][COLOR red]THE CURRENT VERSION IS[/COLOR][/B]  [B][COLOR white]1.0.0[/COLOR][/B]
                                     
-Find more info at http:[B][COLOR red]//www.kodigadget.co.uk[/COLOR][/B]
-[B][COLOR royal blue]THANK YOU.[/COLOR][/B]
+Find more info at http:[B][COLOR red]//www.kodigadget.co.uk[/COLOR][/B]  [B][COLOR royal blue]THANK YOU.[/COLOR][/B]
+
 
